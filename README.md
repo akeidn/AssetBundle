@@ -5,5 +5,5 @@ https://zhenhong.blog.csdn.net/article/details/118487040?spm=1001.2101.3001.6650
 https://www.sikiedu.com/my/course/74
 
 New Unity Project/Assets/Scripts
-LoadFromFileExample.cs
-LoadFromWebExample.cs
+LoadFromFileExample.cs 从本地加载AB包
+LoadFromWebExample.cs 从网络加载AB包
