@@ -7,3 +7,6 @@ https://www.sikiedu.com/my/course/74
 New Unity Project/Assets/Scripts
 LoadFromFileExample.cs 从本地加载AB包
 LoadFromWebExample.cs 从网络加载AB包
+
+阿里云部署AB包
+https://account.aliyun.com/login/login.htm?oauth_callback=https://oss.console.aliyun.com/index
