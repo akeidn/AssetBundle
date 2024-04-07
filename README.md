@@ -2,7 +2,7 @@
 
 unity版本 2017.3.0f3
 
-演示
+B站演示视频
 https://www.bilibili.com/video/BV1Nz421y71R/
 
 怎样在GitHub上传自己的项目（最新）
